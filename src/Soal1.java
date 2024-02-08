@@ -1,8 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
-package com.mycompany.soal1;
 
 /**
  * Program ini akan menjumlahkan dua buah data bertipe byte
@@ -12,7 +7,7 @@ package com.mycompany.soal1;
 public class Soal1 {
 
     public static void main(String[] args) {
-        byte angka1 = 115;
+        byte angka1 = 125;
         byte angka2 = 6;
         byte hasil = (byte) (angka1 + angka2);
         System.out.println("Hasil 1 = "+ hasil);
