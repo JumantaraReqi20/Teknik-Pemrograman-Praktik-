@@ -1,5 +1,4 @@
-import javax.sql.rowset.spi.SyncResolver;
-import javax.swing.text.SimpleAttributeSet;
+package Week1dan2;
 
 /*
 Nama    : Reqi Jumantara Hapid

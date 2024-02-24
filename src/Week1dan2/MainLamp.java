@@ -1,3 +1,5 @@
+package Week1dan2;
+
 class Lamp {
     private String brand;
     private int voltage;

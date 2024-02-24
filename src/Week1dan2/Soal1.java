@@ -1,3 +1,4 @@
+package Week1dan2;
 
 /**
  * Program ini akan menjumlahkan dua buah data bertipe byte

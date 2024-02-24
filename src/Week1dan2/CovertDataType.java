@@ -1,3 +1,5 @@
+package Week1dan2;
+
 public class CovertDataType {
     static short methodOne(long l){
         int i = (int) l;

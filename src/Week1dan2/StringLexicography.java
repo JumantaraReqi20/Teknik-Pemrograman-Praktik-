@@ -1,3 +1,5 @@
+package Week1dan2;
+
 import java.util.Scanner;
 public class StringLexicography {
     public static String capitalizeFirstChar(String str){
