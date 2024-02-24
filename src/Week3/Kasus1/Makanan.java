@@ -1,4 +1,4 @@
-package Week3;
+package Week3.Kasus1;
 
 public class Makanan {
     /*

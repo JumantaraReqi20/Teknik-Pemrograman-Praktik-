@@ -1,4 +1,4 @@
-package Week3;
+package Week3.Kasus1;
 
 public class RestaurantMain {
     public static void main(String[] args) {
