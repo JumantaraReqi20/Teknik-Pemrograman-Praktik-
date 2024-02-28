@@ -1,6 +1,11 @@
 package Week3.Kasus2;
 import java.util.Scanner;
 public class Admin {
+    /*
+    Kelas ini dibuat untuk memasukkan daftar makanan beserta harga
+    yang akan dijual oleh restaurant, tapi sayang sekali datanya bersifat
+    volatile karena karena saya belum mencoba untuk memasukkannya ke dalam file
+     */
     public static void main(String[] args) {
 
         Product[] products = new Product[10];
