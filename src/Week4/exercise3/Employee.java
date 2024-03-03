@@ -1,3 +1,9 @@
+/*
+Program :   [Case 1]
+Author  :   Reqi Jumantara Hapid
+Date    :   03 Maret 2024
+ */
+
 package Week4.exercise3;
 
 public class Employee implements Sortable {
