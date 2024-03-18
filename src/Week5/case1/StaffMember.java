@@ -1,4 +1,4 @@
-package Week5;
+package Week5.case1;
 
 abstract public class StaffMember {
     protected String name;

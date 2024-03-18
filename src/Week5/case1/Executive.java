@@ -1,4 +1,4 @@
-package Week5;
+package Week5.case1;
 
 public class Executive extends Employee{
     private double bonus;

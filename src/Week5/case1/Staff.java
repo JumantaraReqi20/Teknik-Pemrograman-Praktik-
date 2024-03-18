@@ -1,5 +1,7 @@
-package Week5;
-
+//-----------------------------------------
+// Reqi Jumantara Hapid - 231524023
+//-----------------------------------------
+package Week5.case1;
 
 public class Staff {
     StaffMember[] staffList;
@@ -38,7 +40,7 @@ public class Staff {
             System.out.println(staff);
             amount = staff.pay();
             if (amount == 0.0) {
-                System.out.println("Thanks!");
+                System.out.println("Makasih Mas wkwk");
             } else {
                 System.out.println("Paid: $" + amount);
             }

@@ -1,4 +1,7 @@
-package Week5;
+//-----------------------------------------
+//  Reqi Jumantara Hapid - 231524023
+//-----------------------------------------
+package Week5.case1;
 
 public class Commission extends Hourly {
     private double totalSales;

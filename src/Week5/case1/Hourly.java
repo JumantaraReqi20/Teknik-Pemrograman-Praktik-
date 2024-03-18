@@ -1,4 +1,4 @@
-package Week5;
+package Week5.case1;
 
 public class Hourly extends Employee{
     private int hoursWorked;
